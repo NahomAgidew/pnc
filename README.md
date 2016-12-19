@@ -11,7 +11,6 @@ Listen to incoming connections on specified port: python pnc.py -l -p [port]
 Transfer file to server: python pnc.py -t [target_host]  -p [port] -u c:\\target.txt -d /temp/target.txt
 
 #Copyright
-Copyright 2016 Nahom Abi
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
