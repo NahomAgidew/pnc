@@ -24,7 +24,7 @@ import threading
 import subprocess
 import os
 
-listen = 
+listen = False
 fileUploading = False
 
 port = 0
